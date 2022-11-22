@@ -15,6 +15,7 @@
     <img aling="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" >
 
 </div>
+
 # -> Linguagens conhecidas:
 <div style="display:inline_block"><br/>
     <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
