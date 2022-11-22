@@ -6,7 +6,7 @@
 ![Savio GitHub stats](https://github-readme-stats.vercel.app/api?username=Savio-vs&count_private=true&show_icons=true&theme=dark)
 
 
-### -> Atualmente estudando:
+# -> Atualmente estudando:
 <div style="display:inline_block"><br/>
     <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img aling="center" alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
@@ -15,7 +15,7 @@
     <img aling="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" >
 
 </div>
-### -> Linguagens conhecidas:
+# -> Linguagens conhecidas:
 <div style="display:inline_block"><br/>
     <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img aling="center" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -23,7 +23,7 @@
     
 </div>
 
-### -> Tecnologias de interesse:
+# -> Tecnologias de interesse:
 <div style="display:inline_block"><br/>
     <img aling="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
     <img aling="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" >
@@ -33,3 +33,4 @@
     <img aling="center" alt="AWS" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=whit" >
     
 </div> 
+
